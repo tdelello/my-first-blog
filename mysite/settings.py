@@ -25,7 +25,7 @@ SECRET_KEY = 'po(gyr21212c8x4=pz^)39+oze37%83ueh@qjl&ri6bd052o%t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tdelello.pythonanywhere.com']
 
 
 # Application definition
